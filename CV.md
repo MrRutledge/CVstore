@@ -14,7 +14,7 @@ Enthusiastic and articulate university graduate with a passion for technology, I
 ## Education.
 	
 __Mathematics and Computer Science__ &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;   *October/12 — June/17*\
-Graduated with honours: class 2017\	
+Graduated with honours: class 2017<br>
 Course Modules:	
 Programming with Java, Data structures and programming in Java, Databases, Project (Simulation of Two Servers System), Cryptography and Coding theory, Specification and software implementation, Mathematical modeling, Discrete mathematics and Group theory, Mathematical proofing, Calculus, Further Calculus, Work related learning, Computer Hardware and software.	
 
@@ -26,18 +26,18 @@ __Cab Database design:__ Designed a relational database for a cab company, to ma
 **DFA/NFA:** Lead a team of four students to design a Definite Finite and a Non-Definite Automata (a simple machine to read symbols and decide if they form complete words or not). Implemented the design for the definite finite automata and programmed it using Java.	
 	
 **A Levels** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;	       *September/09 — June/12*\
- *A Levels:* Media Studies(C), Mathematics(C), Psychology(D).	
+ *A Levels:* Media Studies *(C)*, Mathematics *(C)*, Psychology *(D)*.	
 
-**GCSEs**	             &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;*March/08 — June/09*\
-10 GCSEs A—C including maths and English	
+**GCSEs** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;*March/08 — June/09*\
+*10 GCSEs A—C* including Maths and English	
 	
 **Other Training (Online courses)**\
-Python for Data science and machine learning (Udemy) &emsp; &emsp; &emsp; &emsp; &emsp;	 *February/17 — September/17*\
+Python for Data science and Machine learning (Udemy) &emsp; &emsp; &emsp; &emsp; &emsp;	 *February/17 — September/17*\
 Database design with MYSQL (Udemy) &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; *February/17 — August/17*
 
 ## Work Experience.
 
-**Amazon warehouse associate** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;*September17 — July/18*
+**Amazon warehouse associate** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;*September/17 — July/18*
 *	Receive product using frequency scanners, pull and pack products and unload shipments from trucks.
 *	Sort up to 10,000 parcels per day into correct locations.
 *	Operate warehouse equipment to move large pallets, boxes and containers of merchandise.
