@@ -25,7 +25,7 @@ Programming with Java, Data structures and programming in Java, Databases, Proje
 
 __Cab Database design:__ Designed a relational database for a cab company, to manage details around the drivers (such as number or drivers and cars) and information on the taxi runs. 
 	
-[**DFA**]((https://github.com/MrRutledge/DFA))/[**NFA:**](https://github.com/MrRutledge/NFAT) Lead a team of four students to design a Definite Finite and a Non-Definite Automata (a simple machine to read symbols and decide if they form complete words or not). Implemented the design for the definite finite automata and programmed it using Java.	
+[**DFA**](https://github.com/MrRutledge/DFA)/[**NFA:**](https://github.com/MrRutledge/NFAT) Lead a team of four students to design a Definite Finite and a Non-Definite Automata (a simple machine to read symbols and decide if they form complete words or not). Implemented the design for the definite finite automata and programmed it using Java.	
 	
 **A Levels** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;	       *September/09 — June/12*\
  *A Levels:* Mathematics *(C)*, Psychology *(D)*, Media Studies *(C)*	
