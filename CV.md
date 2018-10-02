@@ -1,0 +1,79 @@
+## Profile.
+
+Enthusiastic and articulate university graduate with a passion for technology, I am looking to find an entry level position as a software developer. I am adept at conveying complex technical information to a variety of audiences in a clear and understandable manner. Always eager to learn new skills and quick to adapt to new environments.
+
+## Skills & Abilities.
+
+*   Team player. 
+*	Strong record of leadership skills.
+*	Excellent communication and organizational skills. 
+*	Programming and Web: Python, Java, HTML5, CSS3, Git.
+*	Database: MySQL, Oracle (SQL Developer), Access.
+*	Proficient in Microsoft Office programs.
+
+## Education.
+	
+__Mathematics and Computer Science__    *October/12 — June/17*
+Graduated with honours: class 2017	
+Course Modules:	
+Programming with Java, Data structures and programming in Java, Databases, Project (Simulation of Two Servers System), Cryptography and Coding theory, Specification and software implementation, Mathematical modeling, Discrete mathematics and Group theory, Mathematical proofing, Calculus, Further Calculus, Work related learning, Computer Hardware and software.	
+
+### Relevant Projects
+Simulation of a two servers system: Modelled a queuing system for the university canteen using Queuing theory, Excel for analysis and made recommendations to the canteen on what can be done to decrease waiting times for customers.	
+
+__Cab Database design:__ Designed a relational database for a cab company, to manage details around the drivers (such as number or drivers and cars) and information on the taxi runs. 
+	
+**DFA/NFA:** Lead a team of four students to design a Definite Finite and a Non—Definite Automata (a simple machine to read symbols and decide if they form complete words or not). Implemented the design for the definite finite automata and programmed it using Java.	
+	
+**A Levels**	       *September/09 — June/12*
+*A Levels:* Media Studies(C), Mathematics(C), Psychology(D).	
+
+**GCSEs**	              *March/08 — June/09*
+10 GCSEs A—C including maths and English	
+	
+**Other Training (Online courses)**	
+Python for Data science and machine learning (Udemy)	 *February/17 — September/17*
+Database design with MYSQL (Udemy)	       *February/17 — August/17*
+
+## Work Experience.
+
+**Fulfillment warehouse associate — Amazon**	**September17 — July/18**
+*	Receive product using frequency scanners, pull and pack products and unload shipments from trucks.
+*	Sort up to 10,000 parcels per day into correct locations.
+*	Operate warehouse equipment to move large pallets, boxes and containers of merchandise.
+*	Commended for team-oriented attitude, contributing to improved efficiency and nearly 100% accuracy parcel pre-departing.	
+	
+**Team leader for Cycle path fundraisers** 	*June/12 — December/15*
+*	Lead team of 15 fundraisers responsible for signing up supporters for the charity.
+*	Developed fundraising strategies in coordination with team members
+*	Received awards for best team leader, highest number of sign ups in a day and for finding the best location to find new supporters.
+*	Created training material to onboard new fundraisers.
+*	Reporting to Regional Coordinator about strategy and results daily.
+*	Produce monthly report of team performance and future plans for Regional Coordinator to present at the national meeting.
+*	Assessed and made recommendations for improvement to ongoing fundraising programs.
+	
+**Fundraiser for Cycle paths**	          *June/11 — June/12*
+*	Raised awareness about the charity to potential supporters. 
+*	Signed up new supporters using Sustrans Direct Debit forms. 
+*	Scouting possible new locations and reporting findings to team leader to enable permission validation.	
+Extracurricular activities/Voluntary work. 
+
+**Volunteer Assistant Database Manager**	    *October/14 — Present*
+*	Proactively migrated excel spreadsheets into the Access database management system to track data on charities that can support the centre.
+*	Developed fundraising strategies along with the President.
+*	Help with organizing big events for the charity.
+*	Working with president to bring in an automatic texting service.
+*	Maintaining the charity’s website.	
+
+**Student Governor**	*October/10 — October/12*
+*	Won best student representative 2011/12 award.
+*	Coordinated with students on issues they want to raise to college officials.
+*	Collaborated with fellow councilors to organize Student Council events. 
+*	Influenced Director of college to implement better provisions for the student recreation area.
+*	Contributed to the London college cycling scheme as part of the Active travel initiative.
+  	
+**Hobbies and Interests.**
+
+I enjoy dancing, learning new stuff. I teach salsa in my spare time, active online contributor on various topics, reading and socializing with friends.
+
+References: Available on request.
