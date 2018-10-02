@@ -26,10 +26,10 @@ __Cab Database design:__ Designed a relational database for a cab company, to ma
 **DFA/NFA:** Lead a team of four students to design a Definite Finite and a Non-Definite Automata (a simple machine to read symbols and decide if they form complete words or not). Implemented the design for the definite finite automata and programmed it using Java.	
 	
 **A Levels** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;	       *September/09 — June/12*\
- *A Levels:* Media Studies *(C)*, Mathematics *(C)*, Psychology *(D)*.	
+ *A Levels:* Mathematics *(C)*, Psychology *(D)*, Media Studies *(C)*	
 
 **GCSEs** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;*March/08 — June/09*\
-*10 GCSEs A—C* including Maths and English	
+*10 GCSEs A-C* including Maths and English	
 	
 **Other Training (Online courses)**\
 Python for Data science and Machine learning (Udemy) &emsp; &emsp; &emsp; &emsp; &emsp;	 *February/17 — September/17*\
