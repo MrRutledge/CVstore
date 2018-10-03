@@ -19,11 +19,11 @@ Course Modules:
 Programming with Java, Data structures and programming in Java, Databases, Project (Simulation of Two Servers System), Cryptography and Coding theory, Specification and software implementation, Mathematical modeling, Discrete mathematics and Group theory, Mathematical proofing, Calculus, Further Calculus, Work related learning, Computer Hardware and software.	
 
 ### Relevant Projects
-**Simulation of a two servers system:** Modelled a queuing system for the university canteen using Queuing theory, Excel for analysis and made recommendations to the canteen on what can be done to decrease waiting times for customers.	
+[**Simulation of a two servers system:**](https://github.com/MrRutledge/Simulation_Project.git) Modelled a queuing system for the university canteen using Queuing theory, Excel for analysis and made recommendations to the canteen on what can be done to decrease waiting times for customers.	
 
-__Cab Database design:__ Designed a relational database for a cab company, to manage details around the drivers (such as number or drivers and cars) and information on the taxi runs. 
+[**Cab Service Database design:**](https://github.com/MrRutledge/Cab_Service_Project.git) Designed a relational database for a cab company, to manage details around the drivers (such as number or drivers and cars) and information on the taxi runs. 
 	
-[**DFA**](https://github.com/MrRutledge/DFA)/[**NFA:**](https://github.com/MrRutledge/NFAT) Lead a team of four students to design a Definite Finite and a Non-Definite Automata (a simple machine to read symbols and decide if they form complete words or not). Implemented the design for the definite finite automata and programmed it using Java.	
+[**DFA**](https://github.com/MrRutledge/DFA)/[**NFA:**](https://github.com/MrRutledge/NFAT) Lead a team of four students to design a Definite Finite and a Non-Definite Automata (a simple machine to read symbols and decide if they form complete words or not). Implemented the design for the definite finite automata and programmed it using Java.
 	
 **A Levels** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;	       *September/09 — June/12*\
  *A Levels:* Mathematics *(C)*, Psychology *(D)*, Media Studies *(C)*	
