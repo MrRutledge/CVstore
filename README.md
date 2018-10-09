@@ -79,4 +79,4 @@ Extracurricular activities/Voluntary work.
 
 I enjoy dancing, learning new stuff. I teach salsa in my spare time, active online contributor on various topics, reading and socializing with friends.
 
-_References:_ Available on request.
+__References:__ Available on request.
