@@ -56,7 +56,8 @@ Database design with MYSQL (Udemy) &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &em
 *	Raised awareness about the charity to potential supporters. 
 *	Signed up new supporters using Sustrans Direct Debit forms. 
 *	Scouting possible new locations and reporting findings to team leader to enable permission validation.	
-Extracurricular activities/Voluntary work. 
+
+### Extracurricular activities/Voluntary work. 
 
 **Volunteer Assistant Database Manager** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;*October/14 — Present*
 *	Proactively migrated excel spreadsheets into the Access database management system to track data on charities that can support the centre.
