@@ -14,7 +14,7 @@ Enthusiastic and articulate university graduate with a passion for technology, I
 ## Education.
 	
 __Mathematics and Computer Science__ &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;   *October/12 — June/17*\
-Graduated with honours: class 2017<br>
+Graduated with honours: Class 2017<br>
 Course Modules:	
 Programming with Java, Data structures and programming in Java, Databases, Project (Simulation of Two Servers System), Cryptography and Coding theory, Specification and software implementation, Mathematical modeling, Discrete mathematics and Group theory, Mathematical proofing, Calculus, Further Calculus, Work related learning, Computer Hardware and software.	
 
