@@ -80,4 +80,4 @@ Database design with MYSQL (Udemy) &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &em
 
 I enjoy dancing, learning new stuff. I teach salsa in my spare time, active online contributor on various topics, reading and socializing with friends.
 
-__References:__ Available on request.
+__References:__ Available on request
