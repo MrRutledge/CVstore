@@ -28,10 +28,10 @@ Graduated with honours: Class 2017 <br>
 Course Modules:	
 Programming with Java, Data structures and programming in Java, Databases, Project (Simulation of Two Servers System), Cryptography and Coding theory, Specification and software implementation, Mathematical modeling, Discrete mathematics and Group theory, Mathematical proofing, Calculus, Further Calculus, Work related learning, Computer Hardware and software.	
 		
-**A Levels** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;	       *September/09 — June/12*\
+**A Levels** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp; &emsp; &emsp; &emsp;	*September/09 — June/12*\
  *A Levels:* Three _A Levels_  Mathematics, Psychology, Media Studies. 
 
-**GCSEs** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;*March/08 — June/09*\
+**GCSEs** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp; &emsp; &emsp; &emsp; &emsp;*March/08 — June/09*\
 *10 GCSEs A-C* including Maths and English	
 	
 **Other Training (Online courses)**\
