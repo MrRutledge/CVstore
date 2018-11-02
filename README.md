@@ -15,11 +15,15 @@ Enthusiastic and articulate university graduate with a passion for technology, I
 *	Proficient in Microsoft Office programs.
 
 ### Relevant Projects
-[__Simulation of a two servers system:__](https://github.com/MrRutledge/Simulation_Project.git) Modelled a queuing system for the university canteen using Queuing theory, Excel for analysis and made recommendations to the canteen on what can be done to decrease waiting times for customers.	
 
-[**Cab Service Database design:**](https://github.com/MrRutledge/Cab_Service_Project.git) Designed a relational database for a cab company, to manage details around the drivers (such as number or drivers and cars) and information on the taxi runs. 
+[__Seattle Bridge project:__](https://github.com/MrRutledge/Seattle_Bridge_Data_work_flow) Analysis of the data from the Seattle city website to see how cyclists use the bridge. Using Jupyter notebook and Scikitlearn.
+
+[__Simulation of a two servers system:__](https://github.com/MrRutledge/Simulation_Project.git)Modelled a queuing system for the university canteen using Queuing theory, Excel for analysis and made recommendations to the canteen on what can be done to decrease waiting times for customers. Tools: MS Excel, Arena simulation software..	
+
+[**Cab Service Database design:**](https://github.com/MrRutledge/Cab_Service_Project.git)Designed a relational database for a cab company, to manage details around the drivers (such as number or drivers and cars) and information on the taxi runs. Grade Awarded: B, Tools: SQL developer and Core Java. 
 	
-[**Automata_project**](https://github.com/MrRutledge/DFA) Lead a team of four students to design a Definite Finite and a Non-Definite Automata (a simple machine to read symbols and decide if they form complete words or not). Implemented the design for the definite finite automata and programmed it using Java.
+[**Automata_project**](https://github.com/MrRutledge/DFA) Lead a team of four students to design a Definite Finite and a Non—Definite Automaton (a simple machine to read symbols and decide if they form complete words or not). Implemented the design for the definite finite automata and programmed it. Grade awarded: A, Tools: Google sheets and Java
+
 
 ## Education.
 	
