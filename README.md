@@ -19,7 +19,7 @@ Enthusiastic and articulate university graduate with a passion for technology, I
 
 [**Cab Service Database design:**](https://github.com/MrRutledge/Cab_Service_Project.git) Designed a relational database for a cab company, to manage details around the drivers (such as number or drivers and cars) and information on the taxi runs. 
 	
-[**Automata_project**](https://github.com/MrRutledge/DFA)/[**NFA/DFA:**](https://github.com/MrRutledge/NFAT) Lead a team of four students to design a Definite Finite and a Non-Definite Automata (a simple machine to read symbols and decide if they form complete words or not). Implemented the design for the definite finite automata and programmed it using Java.
+[**Automata_project**](https://github.com/MrRutledge/DFA) Lead a team of four students to design a Definite Finite and a Non-Definite Automata (a simple machine to read symbols and decide if they form complete words or not). Implemented the design for the definite finite automata and programmed it using Java.
 
 ## Education.
 	
