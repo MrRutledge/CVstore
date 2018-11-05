@@ -10,7 +10,7 @@ Enthusiastic and articulate university graduate with a passion for technology, I
 *   Team player. 
 *	Strong record of leadership skills.
 *	Excellent communication and organizational skills. 
-*	Programming and Web: Python(Notebook, Flask, Scikitlearn,Pytest), Java(Core & advanced data structures, Junit), \ HTML5, CSS3, Git.
+*	Programming and Web: Python(Notebook, Flask, Scikitlearn,Pytest), Java(Core & advanced data structures, Junit), <br />>HTML5, CSS3, Git.
 *	Database: MySQL, Oracle (SQL Developer), Access.
 *   Operatinting Systems: Windows, Linux, MacOS.
 *	Proficient in Microsoft Office programs.
