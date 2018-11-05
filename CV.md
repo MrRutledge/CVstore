@@ -9,6 +9,7 @@ Enthusiastic and articulate university graduate with a passion for technology, I
 *	Excellent communication and organizational skills. 
 *	Programming and Web: Python, Java, HTML5, CSS3, Git.
 *	Database: MySQL, Oracle (SQL Developer), Access.
+*   Operating System: Windows, Linux, MacOS.
 *	Proficient in Microsoft Office programs.
 
 ### Relevant Projects
