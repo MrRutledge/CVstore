@@ -18,26 +18,26 @@ Enthusiastic and articulate university graduate with a passion for technology, I
 
 *__Java Projects__*
 
-[**Automata_project: **](https://github.com/MrRutledge/DFA) Lead a team of four students to design a Definite Finite and a Non—Definite Automaton (a simple machine to read symbols and decide if they form complete words or not). Implemented the design for the definite finite automata and programmed it. Grade awarded: A, Tools: Google sheets and Java.
+[**Automata_project:** ](https://github.com/MrRutledge/DFA) Lead a team of four students to design a Definite Finite and a Non—Definite Automaton (a simple machine to read symbols and decide if they form complete words or not). Implemented the design for the definite finite automata and programmed it. Grade awarded: A, Tools: Google sheets and Java.
 
-[**Data Structures & Algorithm: **](https://github.com/MrRutledge/Data_Structures_and_Algorithms_Java) In this repo I am practicing the data structures in Java following a Udemy Course as well as other resources on the web.
+[**Data Structures & Algorithm:** ](https://github.com/MrRutledge/Data_Structures_and_Algorithms_Java) In this repo I am practicing the data structures in Java following a Udemy Course as well as other resources on the web.
 
 *__Python Projects___*
 
-[__Seattle Bridge project: __](https://github.com/MrRutledge/Seattle_Bridge_Data_work_flow) Analysis of the data from the Seattle city website to see how cyclists use the bridge. Using Jupyter notebook and Sci-kit Learn.
+[__Seattle Bridge project:__ ](https://github.com/MrRutledge/Seattle_Bridge_Data_work_flow) Analysis of the data from the Seattle city website to see how cyclists use the bridge. Using Jupyter notebook and Sci-kit Learn.
 
-[**Machine Learning Practice: **](https://github.com/MrRutledge/ML_Practice)
+[**Machine Learning Practice:** ](https://github.com/MrRutledge/ML_Practice)
 This project is for me to practice Algorithms that I have learnt in my Udemy course on new data and different scenariosto use them. Both Supervised and Unsupervised methods alike.
 
 *__JavaScript__*
 
-[**Memory Game: **](https://github.com/MrRutledge/Memery_Game1)This repo I just followed a short tutorial on Free code camp, its a game written in pure java script. The aim is for a player to flip matching cards.
+[**Memory Game:** ](https://github.com/MrRutledge/Memery_Game1)This repo I just followed a short tutorial on Free code camp, its a game written in pure java script. The aim is for a player to flip matching cards.
 
 *__Universty Projects__*
 
-[__Simulation of a two servers system: __](https://github.com/MrRutledge/Simulation_Project.git)Modelled a queuing system for the university canteen using Queuing theory, Excel for analysis and made recommendations to the canteen on what can be done to decrease waiting times for customers. Tools: MS Excel, Arena simulation software..	
+[__Simulation of a two servers system:__ ](https://github.com/MrRutledge/Simulation_Project.git)Modelled a queuing system for the university canteen using Queuing theory, Excel for analysis and made recommendations to the canteen on what can be done to decrease waiting times for customers. Tools: MS Excel, Arena simulation software..	
 
-[**Cab Service Database design:**](https://github.com/MrRutledge/Cab_Service_Project.git)Cab Database design:  Designed a relational database for a cab company, the database was designed to help the company manage drivers' such as personal details and information on the taxi runs. Grade Awarded: B, Tools: SQL developer and core Java.
+[**Cab Service Database design:** ](https://github.com/MrRutledge/Cab_Service_Project.git)Cab Database design:  Designed a relational database for a cab company, the database was designed to help the company manage drivers' such as personal details and information on the taxi runs. Grade Awarded: B, Tools: SQL developer and core Java.
 	
 
 ## Education.
