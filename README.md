@@ -35,7 +35,7 @@ This project is for me to practice Algorithms that I have learnt in my Udemy cou
 
 [**Memory Game: **](https://github.com/MrRutledge/Memery_Game1)This repo I just followed a short tutorial on Free code camp, its a game written in pure JavaScript. The aim of the game is for a player to flip the cards until the find matching cards from subsequent flipping.
 
-*__Univesty Projects__*
+*__Universty Projects__*
 
 [__Simulation of a two servers system: __](https://github.com/MrRutledge/Simulation_Project.git)Modelled a queuing system for the university canteen using Queuing theory, Excel for analysis and made recommendations to the canteen on what can be done to decrease waiting times for customers. Tools: MS Excel, Arena simulation software.	
 
