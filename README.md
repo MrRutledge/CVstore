@@ -29,15 +29,15 @@ Enthusiastic and articulate university graduate with a passion for technology, I
 [__Seattle Bridge project: __](https://github.com/MrRutledge/Seattle_Bridge_Data_work_flow) Analysis of the data from the Seattle city website to see how cyclists use the bridge. Using Jupyter notebook and Sci-kit Learn.
 
 [**Machine Learning Practice: **](https://github.com/MrRutledge/ML_Practice)
-This project is for me to practice Algorithms that I have learnt in my Udemy course on new data and different scenariosto use them. Both Supervised and Unsupervised methods alike.
+This project is for me to practice Algorithms that I have learnt in my Udemy course on new data and different scenarios to use them. Both Supervised and Unsupervised methods alike.
 
 *__JavaScript__*
 
-[**Memory Game: **](https://github.com/MrRutledge/Memery_Game1)This repo I just followed a short tutorial on Free code camp, its a game written in pure java script. The aim is for a player to flip matching cards.
+[**Memory Game: **](https://github.com/MrRutledge/Memery_Game1)This repo I just followed a short tutorial on Free code camp, its a game written in pure JavaScript. The aim of the game is for a player to flip the cards until the find matching cards from subsequent flipping.
 
 *__Univesty Projects__*
 
-[__Simulation of a two servers system: __](https://github.com/MrRutledge/Simulation_Project.git)Modelled a queuing system for the university canteen using Queuing theory, Excel for analysis and made recommendations to the canteen on what can be done to decrease waiting times for customers. Tools: MS Excel, Arena simulation software..	
+[__Simulation of a two servers system: __](https://github.com/MrRutledge/Simulation_Project.git)Modelled a queuing system for the university canteen using Queuing theory, Excel for analysis and made recommendations to the canteen on what can be done to decrease waiting times for customers. Tools: MS Excel, Arena simulation software.	
 
 [**Cab Service Database design:**](https://github.com/MrRutledge/Cab_Service_Project.git)Cab Database design:  Designed a relational database for a cab company, the database was designed to help the company manage drivers' such as personal details and information on the taxi runs. Grade Awarded: B, Tools: SQL developer and core Java.
 	
