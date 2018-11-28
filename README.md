@@ -10,6 +10,7 @@ Enthusiastic and articulate university graduate with a passion for technology, I
 *   Team player. 
 *	Strong record of leadership skills.
 *	Excellent communication and organizational skills. 
+*   Familiar with Pair programming, TDD and BDD practices
 *	Programming and Web: Python(Notebook, Flask, Sci-kit Learn,Pytest), <br /> Java(Core & advanced data structures, Junit),HTML5, CSS3, Git.
 *	Database: MySQL, Oracle (SQL Developer), Access.
 *   Operating Systems: Windows, Linux, MacOS.
