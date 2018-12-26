@@ -13,7 +13,6 @@ Enthusiastic and articulate university graduate with a passion for technology, I
 *   Familiar with Pair programming, TDD and BDD practices
 *	Programming and Web: Python(Notebook, Flask, Sci-kit Learn,Pytest), <br /> Java(Core & advanced data structures, Junit),HTML5, CSS3, Git.
 *	Database: MySQL, Oracle (SQL Developer), Access.
-*   Operating Systems: Windows, Linux, MacOS.
 *   O.S & Cloud environments: Docker, AWS(EC2,S3)
 *	Proficient in Microsoft Office programs.
 
@@ -36,12 +35,16 @@ This project is for me to practice Algorithms that I have learnt in my Udemy cou
 
 [**Memory Game:** ](https://github.com/MrRutledge/Memery_Game1)This repo I just followed a short tutorial on Free code camp, its a game written in pure JavaScript. The aim of the game is for a player to flip the cards until the find matching cards from subsequent flipping.
 
+#### Miscellaneous Projetcs
+
+
 *__Universty Projects__*
 
-[__Simulation of a two servers system:__ ](https://github.com/MrRutledge/Simulation_Project.git)Modelled a queuing system for the university canteen using Queuing theory, Excel for analysis and made recommendations to the canteen on what can be done to decrease waiting times for customers. Tools: MS Excel, Arena simulation software.	
+[__Simulation of a two servers system:__ ](https://github.com/MrRutledge/Simulation_Project.git) Modelled a queuing system for the university canteen using Queuing theory, Excel for analysis and made recommendations to the canteen on what can be done to decrease waiting times for customers. Tools: MS Excel, Arena simulation software.	
 
-[**Cab Service Database design:** ](https://github.com/MrRutledge/Cab_Service_Project.git)Cab Database design:  Designed a relational database for a cab company, the database was designed to help the company manage drivers' such as personal details and information on the taxi runs. Grade Awarded: B, Tools: SQL developer and core Java.
-	
+[**Cab Service Database design:** ](https://github.com/MrRutledge/Cab_Service_Project.git) Cab Database design:  Designed a relational database for a cab company, the database was designed to help the company manage drivers' such as personal details and information on the taxi runs. Grade Awarded: B, Tools: SQL developer and core Java.
+
+ 
 
 ## Education.
 	
