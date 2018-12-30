@@ -24,7 +24,7 @@ Enthusiastic and articulate university graduate with a passion for technology, I
 
 [**Data Structures & Algorithm:** ](https://github.com/MrRutledge/Data_Structures_and_Algorithms_Java) In this repo I am practicing the data structures in Java following a Udemy Course as well as other resources on the web.
 
-*__Python Projects___*
+*__Python Projects__*
 
 [__Seattle Bridge project:__ ](https://github.com/MrRutledge/Seattle_Bridge_Data_work_flow) Analysis of the data from the Seattle city website to see how cyclists use the bridge. Using Jupyter notebook and Sci-kit Learn.
 
