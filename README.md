@@ -57,7 +57,7 @@ Programming with Java, Data structures and programming in Java, Databases, Proje
  *A Levels:* Three _A Levels_  Mathematics, Psychology, Media Studies. 
 
 **GCSEs** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp; &emsp; &emsp; &emsp; &emsp;*March/08 — June/09*\
-*10 GCSEs A-C* including Maths and English	
+*10 GCSEs A-C* including Maths and Eng	
 	
 **Other Training (Online Courses)**\
 Python for Data science and Machine learning (Udemy) &emsp; &emsp; &emsp; &emsp; &emsp;	 *February/18 — September/18*\
