@@ -92,7 +92,7 @@ Database design with MYSQL (Udemy) &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &em
 *	Developed fundraising strategies along with the President.
 *	Help with organizing big events for the charity.
 *	Working with president to bring in an automatic texting service.
-*	Maintaining the charity’s website.	
+*	Maintaining the charity’s website	
 
 **Student Governor** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;*October/10 — October/12*
 *	Won best student representative 2011/12 award.
