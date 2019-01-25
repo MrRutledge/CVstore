@@ -9,10 +9,10 @@ Enthusiastic and articulate university graduate with a passion for technology, I
 *	Strong record of leadership skills.
 *	Excellent communication and organizational skills.
 *	Familiar with Pair programming, TDD and BDD practices 
-*	Programming and Web: Python(Notebook, Flask, Sci-kit Learn,Pytest), <br /> Java(Core & advanced data structures, Junit),HTML5, CSS3, Git.
+*	Programming and Web: Python(Notebook, Flask, Sci-kit Learn,Pytest), <br/> Java(Core & advanced data structures, Junit),HTML5, CSS3, Git.
 *	Database: MySQL, Oracle (SQL Developer), Access.
 *   Operating Systems: Windows, Linux, MacOS.
-*   O.S & Cloud environments: Docker, AWS(EC2,S3)
+*   O.S & Cloud environments: Docker, AWS(EC2,S3, Elastic-bean)
 *	Proficient in Microsoft Office programs.
 
 ### Relevant Projects
@@ -28,7 +28,7 @@ Enthusiastic and articulate university graduate with a passion for technology, I
 [__Seattle Bridge project:__ ](https://github.com/MrRutledge/Seattle_Bridge_Data_work_flow) Analysis of the data from the Seattle city website to see how cyclists use the bridge. Using Jupyter notebook and Sci-kit Learn.
 
 [**Machine Learning Practice:** ](https://github.com/MrRutledge/ML_Practice)
-This project is for me to practice Algorithms that I have learnt in my Udemy course on new data and different scenariosto use them. Both Supervised and Unsupervised methods alike.
+This project is for me to practice Algorithms that I have learnt in my Udemy course on new data and different scenarios to use them. Both Supervised and Unsupervised methods alike.
 
 *__JavaScript__*
 
@@ -82,12 +82,12 @@ Database design with MYSQL (Udemy) &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &em
 
 ### Extracurricular activities/Voluntary work. 
 
-**Volunteer Assistant Database Manager** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;*October/14 — Present*
+**Volunteer Assistant  Fundraising Database Manager** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;*October/14 — October/18*
+*   Managing the fundraising database 
 *	Proactively migrated excel spreadsheets into the Access database management system to track data on charities that can support the centre.
-*	Developed fundraising strategies along with the President.
-*	Help with organizing big events for the charity.
+*	Developed fundraising strategies with the President.
+*	Help organizing big events for the charity.
 *	Working with president to bring in an automatic texting service.
-*	Maintaining the charity’s website.	
 
 **Student Governor** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;*October/10 — October/12*
 *	Won best student representative 2011/12 award.
