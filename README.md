@@ -13,8 +13,9 @@ Enthusiastic and articulate university graduate with a passion for technology, I
 *   Familiar with Pair programming, TDD and BDD practices
 *	Programming and Web: Python(Notebook, Flask, Sci-kit Learn,Pytest), <br /> Java(Core & advanced data structures, Junit),HTML5, CSS3, Git.
 *	Database: MySQL, Oracle (SQL Developer), Access.
+*	Proficient in Microsoft Office and Google drive programs.
 *   O.S & Cloud environments: Docker, AWS(EC2,S3)
-*	Proficient in Microsoft Office programs.
+
 
 ### Relevant Projects
 
@@ -87,12 +88,12 @@ Database design with MYSQL (Udemy) &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &em
 
 ### Extracurricular activities/Voluntary work. 
 
-**Volunteer Assistant Database Manager** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;*October/14 — Present*
+**Volunteer  Fundraising Assistant Database Manager** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;*October/14 — October/18*
+*   Managing the fundraisng database
 *	Proactively migrated excel spreadsheets into the Access database management system to track data on charities that can support the centre.
 *	Developed fundraising strategies along with the President.
 *	Help with organizing big events for the charity.
-*	Working with president to bring in an automatic texting service.
-*	Maintaining the charity’s website.	
+*	Working with president to bring in an automatic texting service.	
 
 **Student Governor** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;*October/10 — October/12*
 *	Won best student representative 2011/12 award.
