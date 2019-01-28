@@ -3,7 +3,7 @@
 
 ## Profile.
 
-Enthusiastic and articulate university graduate with a passion for technology, I am looking to find an entry level position as a software developer. I am adept at conveying complex technical information to a variety of audiences in a clear and understandable manner. Always eager to learn new skills and quick to adapt to new environments.
+Enthusiastic and articulate university graduate with a passion for technology, I am looking to find an entry level position as a software developer or junior analyst. I am adept at conveying complex technical information to a variety of audiences in a clear and understandable manner. Always eager to learn new skills and quick to adapt to new environments.
 
 ## Skills & Abilities.
 
@@ -14,7 +14,7 @@ Enthusiastic and articulate university graduate with a passion for technology, I
 *	Programming and Web: Python(Notebook, Flask, Sci-kit Learn,Pytest), <br /> Java(Core & advanced data structures, Junit),HTML5, CSS3, Git.
 *	Database: MySQL, Oracle (SQL Developer), Access.
 *	Proficient in Microsoft Office and Google drive programs.
-*   O.S & Cloud environments: Docker, AWS(EC2,S3)
+*   O.S & Cloud environments: Docker, AWS(EC2,S3, Elastic-Beanstalk)
 
 
 ### Relevant Projects
