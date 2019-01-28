@@ -3,7 +3,7 @@
 
 ## Profile.
 
-Enthusiastic and articulate university graduate with a passion for technology, I am looking to find an entry level position as a software developer. I am adept at conveying complex technical information to a variety of audiences in a clear and understandable manner. Always eager to learn new skills and quick to adapt to new environments.
+Enthusiastic and articulate university graduate with a passion for technology, I am looking to find an entry level position as a software developer or junior analyst. I am adept at conveying complex technical information to a variety of audiences in a clear and understandable manner. Always eager to learn new skills and quick to adapt to new environments.
 
 ## Skills & Abilities.
 
